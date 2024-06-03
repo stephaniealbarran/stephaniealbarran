@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
   <a href="https://www.linkedin.com/in/stefany-albarran](https://www.linkedin.com/in/stefany-albarran" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
+
 
 ## My GitHub Stats
 
@@ -61,3 +61,4 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 LinkedIn: [https://www.linkedin.com/in/stefany-albarran](https://www.linkedin.com/in/stefany-albarran)
 
 Thank you for visiting my profile. I hope you find something interesting!
+</div>
