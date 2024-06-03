@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 
   <div align="center">
 
- Languages
+ <b>Languages</b>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -54,6 +54,6 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 
 LinkedIn: [https://www.linkedin.com/in/stefany-albarran](https://www.linkedin.com/in/stefany-albarran)
 
-Thank you for visiting my profile. I hope you find something interesting!
+Thank you for visiting my profile. I hope you find something interesting!😎
 
 </div>
