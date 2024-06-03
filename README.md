@@ -1,30 +1,30 @@
-# Hola, soy Stephanie Albarran 👋
+# Hello, I'm Stefany Albarrán 👋
 
-¡Bienvenida a mi perfil de GitHub! Soy una desarrolladora apasionada por la tecnología y la innovación. Me encanta aprender nuevas herramientas y tecnologías, y disfruto colaborando en proyectos de código abierto. Aquí podrás encontrar algunos de mis proyectos y contribuciones.
+Welcome to my GitHub profile! I am a developer passionate about technology and innovation. I love learning new tools and technologies, and I enjoy collaborating on open-source projects. Here you can find some of my projects and contributions.
 
-## Sobre mí
+## About Me
 
-- 🌱 Actualmente aprendiendo **React** y **Node.js**
-- 🔭 Trabajando en [Proyecto X](https://github.com/stephaniealbarran/proyecto-x)
-- 👯 Buscando colaborar en proyectos de código abierto y desafíos interesantes
-- 📫 Puedes contactarme en: [stefanyalbarran@hotmail.com)
-- ⚡ Fun fact: Me encanta resolver puzzles y desafíos de lógica en mi tiempo libre.
-
-## Mis estadísticas de GitHub
-
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=stephaniealbarran&show_icons=true&theme=radical)
-
-## Lenguajes más utilizados
-
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniealbarran&layout=compact&theme=radical)
-
-## Proyectos destacados
-
-- [Proyecto X](https://github.com/stephaniealbarran/proyecto-x): Descripción breve del proyecto.
-- [Proyecto Y](https://github.com/stephaniealbarran/proyecto-y): Descripción breve del proyecto.
-
-## Conéctate conmigo
+- 🌱 Currently learning **Angular** and **Node.js**
+- 🔭 Working on various projects.
+- 👯 Looking to collaborate on open-source projects and interesting challenges!
+- 📫 You can contact me at: [stefanyalbarran@hotmail.com](mailto:stefanyalbarran@hotmail.com)
+- ⚡ Fun fact: Soy una tia guay😁 .
 
 
+## My GitHub Stats
 
-Gracias por visitar mi perfil. ¡Espero que encuentres algo interesante!
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephaniealbarran&show_icons=true&theme=gradient)
+
+## Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniealbarran&layout=compact&theme=radical)
+
+## Featured Projects
+
+- [Videogames](https://github.com/stephaniealbarran/Videogame-web): Web development focused on video games. It includes implementations of Tetris and Stack Game, developed with technologies such as HTML, CSS, JavaScript, and Bootstrap, and using libraries such as Three.js and GSAP. Find out how I brought classic games to the web!
+
+## Connect with Me
+
+LinkedIn: [https://www.linkedin.com/in/stefany-albarran](https://www.linkedin.com/in/stefany-albarran)
+
+Thank you for visiting my profile. I hope you find something interesting!
