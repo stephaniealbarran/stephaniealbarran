@@ -42,17 +42,16 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
   <a href="https://www.linkedin.com/in/stefany-albarran](https://www.linkedin.com/in/stefany-albarran" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stephaniealbarran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## Most Used Languages
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniealbarran&layout=compact&theme=radical)
 ## My GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephaniealbarran&show_icons=true&theme=gruvbox)
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stephaniealbarran&theme=dark&hide_border=false)<br/>
-
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephaniealbarran&show_icons=true&theme=gruvbox)
 
 ## Featured Projects
 
