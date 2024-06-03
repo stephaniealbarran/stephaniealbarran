@@ -42,8 +42,8 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephaniealbarran&layout=compact&theme=radical)
 ## My GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=stephaniealbarran&theme=dark&hide_border=false)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephaniealbarran&show_icons=true&theme=gruvbox)
+![](https://github-readme-streak-stats.herokuapp.com/?user=stephaniealbarran&theme=dark&hide_border=false) ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephaniealbarran&show_icons=true&theme=gruvbox)
+
 
 ## Featured Projects
 
