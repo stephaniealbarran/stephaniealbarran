@@ -12,8 +12,7 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 </a>
 
   <div align="center">
-##
- <b>Technologies I Work With</b>
+## Technologies I Work With
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
