@@ -44,11 +44,6 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/stephaniealbarran/stephaniealbarran/output/snake.svg" alt="Snake animation" />
-
-
 ## My GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephaniealbarran&show_icons=true&theme=gruvbox)
