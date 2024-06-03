@@ -7,7 +7,10 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 - 🌱 Currently learning **Angular** and **Node.js**
 - 🔭 Working on various projects.
 - 👯 Looking to collaborate on open-source projects and interesting challenges!
-- 📫 You can contact me at: [stefanyalbarran@hotmail.com](mailto:stefanyalbarran@hotmail.com)
+- 📫 You can contact me at: <div align="center">
+<a href="https://www.linkedin.com/in/stefany-albarran" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
 
 ###
 
@@ -32,13 +35,6 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="figma logo"  />
 </div>
-
-###
-
-<div align="center">
-<a href="https://www.linkedin.com/in/stefany-albarran" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stephaniealbarran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
