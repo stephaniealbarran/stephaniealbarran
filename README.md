@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 </a>
 
   <div align="center">
-
+##
  <b>Technologies I Work With</b>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -49,10 +49,6 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 ## Featured Projects
 
 - [Videogames](https://github.com/stephaniealbarran/Videogame-web): Web development focused on video games. It includes implementations of Tetris and Stack Game, developed with technologies such as HTML, CSS, JavaScript, and Bootstrap, and using libraries such as Three.js and GSAP. Find out how I brought classic games to the web!
-
-## Connect with Me
-
-LinkedIn: [https://www.linkedin.com/in/stefany-albarran](https://www.linkedin.com/in/stefany-albarran)
 
 Thank you for visiting my profile. I hope you find something interesting!😎
 
