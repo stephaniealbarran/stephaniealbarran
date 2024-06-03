@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 ![](https://github-readme-streak-stats.herokuapp.com/?user=stephaniealbarran&theme=dark&hide_border=false) ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephaniealbarran&show_icons=true&theme=gruvbox)
 
 
-## Featured Projects
+## Featured Projects 🎈
 
 - [Videogames](https://github.com/stephaniealbarran/Videogame-web): Web development focused on video games. It includes implementations of Tetris and Stack Game, developed with technologies such as HTML, CSS, JavaScript, and Bootstrap, and using libraries such as Three.js and GSAP. Find out how I brought classic games to the web!
 
