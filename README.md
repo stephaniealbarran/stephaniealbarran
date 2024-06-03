@@ -50,5 +50,6 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 - [Videogames](https://github.com/stephaniealbarran/Videogame-web): Web development focused on video games. It includes implementations of Tetris and Stack Game, developed with technologies such as HTML, CSS, JavaScript, and Bootstrap, and using libraries such as Three.js and GSAP. Find out how I brought classic games to the web!
 
 Thank you for visiting my profile. I hope you find something interesting!😎
+![MotiHeartsGIF](https://github.com/stephaniealbarran/stephaniealbarran/assets/99541747/60a8127f-f31c-47a7-bcc3-10b9e96b4522)
 
 </div>
