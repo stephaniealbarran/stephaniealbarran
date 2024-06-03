@@ -1,4 +1,4 @@
-# Hello, I'm Stefany Albarrán 👋
+# Hi, I'm Stefany Albarrán 👋
 
 Welcome to my GitHub profile! I am a developer passionate about technology and innovation. I love learning new tools and technologies, and I enjoy collaborating on open-source projects. Here you can find some of my projects and contributions.
 
@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I am a developer passionate about technology and i
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/stefany-albarran]("https://www.linkedin.com/in/stefany-albarran") target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<a href="https://www.linkedin.com/in/stefany-albarran" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
   
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=stephaniealbarran&theme=radical&no-frame=false&no-bg=true&margin-w=4)
